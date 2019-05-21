@@ -1,11 +1,16 @@
 _repo: The-Scottish-Highlands-Highland-Clans-and-Highland-Regiments-Volume-II-of-2_59469
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 59469-h/images/cover.jpg
 creator:
   editor:
     agent_name: Keltie, Sir John Scott
     gutenberg_agent_id: '50494'
     url: http://www.gutenberg.org/2009/agents/50494
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59469#The-Scottish-Highlands-Highland-Clans-and-Highland-Regiments-Volume-II-of-2
 gutenberg_issued: '2019-05-18'
 gutenberg_type: Text
 identifiers:
